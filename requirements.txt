@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+scipy
+joblib
+streamlit_lottie
