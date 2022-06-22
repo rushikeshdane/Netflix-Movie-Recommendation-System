@@ -1,6 +1,4 @@
 [theme]
-
-primaryColor="salmon"
+base="light"
+primaryColor="#0029f7"
 secondaryBackgroundColor="#ffc6a1"
-backgroundColor = ‘#D3D3D3’
-textColor= ‘black’
