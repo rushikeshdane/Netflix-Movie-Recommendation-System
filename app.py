@@ -73,3 +73,12 @@ if st.button('Show Recommendation'):
     #list_of_recommended_movie = recommended_movie_names.to_list()
    # st.write(recommended_movie_names[['title', 'description']])
     Table(recommended_movie_names)
+    
+st.write('  '
+         )
+st.write(' ')
+
+EDA = st.checkbox('Show Netflix Exploratory Data Analysis')
+if EDA :
+    st.write(
+        "check out this [link](https://www.kaggle.com/code/rushikeshdane20/in-depth-analysis-of-netflix-with-plotly)")
