@@ -38,7 +38,7 @@ Install reqluired package with pip
 
 
 
-during this project I had learned how to build content based recommendation systeam , tried different data visualization technique with plotly and created EDA report with storytelling 
+during this project I had learned how to build content based recommendation system , tried different data visualization technique with plotly and created EDA report with storytelling 
 
 project
 ## 🚀 About Me
